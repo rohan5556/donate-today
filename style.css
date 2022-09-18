@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.donation-cover{
+    background-image: url(images/donation-baby.jpg);
+    background-size: cover;
+    
+}
+
+.text-div{
+    color: white;
+    padding: 200px 0;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+}
+.text-div h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+padding-left:;
+padding-top:;
+padding-bottom: ;
+padding-right:560px;
+
+padding = 4px 5px;
+padding: 3px 45px 56px 43px;
+
+
+*/
